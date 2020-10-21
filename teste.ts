@@ -1,3 +1,3 @@
-function teste(a, b) {
-
+function teste(a, b): number {
+  return {}
 }
